@@ -1,0 +1,19 @@
+.w-100{
+    width: 100%;
+}
+.mr-left-45{
+    margin-left: 45%;
+}
+.noti-err{
+    display: block;
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    color: #dc3545;
+}
+.is-invalid input.vs-inputx.vs-input--input.normal{
+    border: 1px solid red!important;
+}
+.card-body table tr th{
+    width: auto;
+  }
